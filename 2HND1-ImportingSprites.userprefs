@@ -1,9 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\stripedbarController.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\bombGeneratorScript.js">
     <Files>
-      <File FileName="Assets\Scripts\playButtonScript.js" Line="7" Column="2" />
-      <File FileName="Assets\Scripts\stripedbarController.js" Line="12" Column="56" />
+      <File FileName="Assets\Scripts\stripedbarController.js" Line="13" Column="38" />
+      <File FileName="Assets\Scripts\bombGeneratorScript.js" Line="35" Column="39" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
